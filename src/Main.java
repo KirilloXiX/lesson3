@@ -7,6 +7,8 @@ public class Main {
         System.out.println("****  Name: Kirill  ****");
         System.out.println("****  Skype: kirixoz  ****");
         System.out.println("*********************");
+        System.out.println("*some changes*");
+
 
 
 
